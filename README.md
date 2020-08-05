@@ -1,2 +1,2 @@
 # Intermediate Python
-Datacamp python matplotlib course solutions
+Datacamp Intermediate Python course solutions
