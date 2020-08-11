@@ -1,2 +1,2 @@
 # Intermediate Python
-Datacamp Intermediate Python course solutions
+DataCamp Intermediate Python course solutions
